@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "hello world node command example",
   "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TxTony/node-command-sample.git"
+  },
   "scripts": {
     "test": "test"
   },
