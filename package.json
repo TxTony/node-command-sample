@@ -1,6 +1,6 @@
 {
   "name": "@txtony/node-command-sample",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "hello world node command example",
   "main": "cli.js",
   "repository": {
