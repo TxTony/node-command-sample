@@ -24,5 +24,8 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "yargs": "^15.4.1"
   }
 }
