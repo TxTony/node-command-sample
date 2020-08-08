@@ -1,0 +1,24 @@
+{
+  "name": "@txtony/node-command-sample",
+  "version": "1.0.0",
+  "description": "hello world node command example",
+  "main": "cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "node",
+    "command",
+    "example"
+  ],
+  "bin": {
+    "hello": "./cli.js"
+  },
+  "author": "txtony <t.tipveau@berd.re>",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
